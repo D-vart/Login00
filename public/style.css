@@ -320,10 +320,4 @@ body {
         padding: 2rem 1.5rem;
     }
     
-    .floating-astronaut {
-        width: 100px;
-        height: 100px;
-        right: -30px;
-        bottom: -30px;
-    }
 }
