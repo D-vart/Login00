@@ -43,5 +43,3 @@ Projeto de uma tela de login com design futurista e visual moderno. O projeto fo
 - `js/script.js`: arquivo JavaScript com a lógica de validação e interações.
 
 ---
-
-O projeto foi ajustado para remover Tailwind CSS e garantir que o JavaScript seja carregado corretamente pelo HTML.
